@@ -8,5 +8,8 @@ class TestUnite {
         Unite u2 = new Unite("Free", 198765432, 7865);
         System.out.println("\nInformation sur Amazon\n");
         System.out.println(u1.nom + " / " + u1.ca);
+        System.out.println(")\nInformation sur Free\n");
+        System.out.println(u2.nom + " / " + u2.ca);
+        
     }
 }
