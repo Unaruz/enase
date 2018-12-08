@@ -1,3 +1,4 @@
+//Classe pour définir une unité 
 class Unite {
     String nom;
     double siren;
