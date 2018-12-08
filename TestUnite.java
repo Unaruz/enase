@@ -10,6 +10,6 @@ class TestUnite {
         System.out.println(u1.nom + " / " + u1.ca);
         System.out.println(")\nInformation sur Free\n");
         System.out.println(u2.nom + " / " + u2.ca);
-        
+        System.out.println("Fin du programme");
     }
 }
